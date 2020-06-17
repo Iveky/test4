@@ -26,8 +26,8 @@ CString MakePreFileData(CString& strBoundary, CString& strFolders, CString& strF
 
 
     /*
-
     ostavi ovo u komentaru da ima primjer dodavanja polja s podacima
+    ================================================================
 
     strFormat = _T("--%s");
     strFormat += _T("\r\n");
