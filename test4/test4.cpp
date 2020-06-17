@@ -24,6 +24,7 @@ CString MakePreFileData(CString& strBoundary, CString& strFolders, CString& strF
     CString strFormat;
     CString strData;
 
+
     /*
 
     ostavi ovo u komentaru da ima primjer dodavanja polja s podacima
