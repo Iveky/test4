@@ -28,6 +28,10 @@ CString MakePreFileData(CString& strBoundary, CString& strFolders, CString& strF
     /*
     ostavi ovo u komentaru da ima primjer dodavanja polja s podacima
     ================================================================
+    gornju crtu sam dodao u master branchu
+    a ovaj tekst sam dopisao nakon što sam 
+    kreirao branch 'promjene_17_06_2020'
+
 
     strFormat = _T("--%s");
     strFormat += _T("\r\n");
